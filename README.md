@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsh-791/DSA/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/harsh-791/DSA/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harsh-791/DSA/tree/master/0002-add-two-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/harsh-791/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/harsh-791/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
