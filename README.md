@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsh-791/DSA/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/harsh-791/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/harsh-791/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harsh-791/DSA/tree/master/0078-subsets) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harsh-791/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/harsh-791/DSA/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/harsh-791/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/harsh-791/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harsh-791/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
