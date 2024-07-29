@@ -62,8 +62,10 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harsh-791/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/harsh-791/DSA/tree/master/0022-generate-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/harsh-791/DSA/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harsh-791/DSA/tree/master/0022-generate-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/harsh-791/DSA/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
