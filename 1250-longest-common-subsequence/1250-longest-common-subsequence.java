@@ -7,7 +7,7 @@ class Solution {
             return 0;
         }
         if(text1.charAt(ptr1) == text2.charAt(ptr2)){
-            return dp[ptr1][ptr2] = 1 + helper(ptr1+1, ptr2+1, text1, text2);
+            return 1 + helper(ptr1+1, ptr2+1, text1, text2);
         }
 
         if(dp[ptr1][ptr2]!=-1){
