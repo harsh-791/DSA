@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/harsh-791/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/harsh-791/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harsh-791/DSA/tree/master/0078-subsets) |
+| [0198-house-robber](https://github.com/harsh-791/DSA/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harsh-791/DSA/tree/master/0022-generate-parentheses) |
+| [0198-house-robber](https://github.com/harsh-791/DSA/tree/master/0198-house-robber) |
 | [1250-longest-common-subsequence](https://github.com/harsh-791/DSA/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
