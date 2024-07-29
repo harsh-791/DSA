@@ -64,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harsh-791/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/harsh-791/DSA/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/harsh-791/DSA/tree/master/0072-edit-distance) |
 | [1250-longest-common-subsequence](https://github.com/harsh-791/DSA/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harsh-791/DSA/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/harsh-791/DSA/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/harsh-791/DSA/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/harsh-791/DSA/tree/master/0198-house-robber) |
 | [1250-longest-common-subsequence](https://github.com/harsh-791/DSA/tree/master/1250-longest-common-subsequence) |
 ## Matrix
