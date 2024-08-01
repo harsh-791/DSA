@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/harsh-791/DSA/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/harsh-791/DSA/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/harsh-791/DSA/tree/master/0239-sliding-window-maximum) |
+| [2727-number-of-senior-citizens](https://github.com/harsh-791/DSA/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/harsh-791/DSA/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/harsh-791/DSA/tree/master/0072-edit-distance) |
 | [1250-longest-common-subsequence](https://github.com/harsh-791/DSA/tree/master/1250-longest-common-subsequence) |
+| [2727-number-of-senior-citizens](https://github.com/harsh-791/DSA/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
 |  |
 | ------- |
