@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/harsh-791/DSA/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/harsh-791/DSA/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/harsh-791/DSA/tree/master/0239-sliding-window-maximum) |
+| [0870-magic-squares-in-grid](https://github.com/harsh-791/DSA/tree/master/0870-magic-squares-in-grid) |
 | [2727-number-of-senior-citizens](https://github.com/harsh-791/DSA/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/harsh-791/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/harsh-791/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harsh-791/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0870-magic-squares-in-grid](https://github.com/harsh-791/DSA/tree/master/0870-magic-squares-in-grid) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/harsh-791/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/harsh-791/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/harsh-791/DSA/tree/master/0013-roman-to-integer) |
 | [0273-integer-to-english-words](https://github.com/harsh-791/DSA/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/harsh-791/DSA/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/harsh-791/DSA/tree/master/0064-minimum-path-sum) |
+| [0870-magic-squares-in-grid](https://github.com/harsh-791/DSA/tree/master/0870-magic-squares-in-grid) |
 ## Queue
 |  |
 | ------- |
